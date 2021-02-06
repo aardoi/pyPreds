@@ -27,14 +27,14 @@ ________________________________________________________________________________
 # | AUTHORSHIP INFORMATION |
 #  ************************
 
-__author__ = "Aubin ARDOIS"
+__author__ = "aardoi"
 __copyright__ = "copyright_name"
-__credits__ = ["Aubin ARDOIS"]
+__credits__ = ["aardoi"]
 __license__ = "license_name"
 __version__ = "x.x.x"
-__maintainer__ = "Aubin ARDOIS"
-__email__ = "aubin.ardois@gmail"
-__status__ = ["Development", "Pre-Production", "Production"]
+__maintainer__ = "aardoi"
+__email__ = ""
+__status__ = ["Development"]
 
 #  **************************************
 # | CLASS / FUNCTION / SCRIPT DEFINITION |
