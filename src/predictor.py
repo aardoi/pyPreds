@@ -9,13 +9,13 @@ ________________________________________________________________________________
 _____________________________________________________-HEADER-___________________________________________________________
 
 
-script name : script_name.py
+script name : predictor.py
 ------------
 
-content : This file countains ...
+content : This file countains the predictor main class
 --------
 
-purpose : This (class or script or function) purpose is to ...
+purpose : This class  purpose is to provide an abstract view of predictors used
 ________________________________________________________________________________________________________________________
 """
 
@@ -27,16 +27,16 @@ ________________________________________________________________________________
 # | AUTHORSHIP INFORMATION |
 #  ************************
 
-__author__ = "Aubin ARDOIS"
-__copyright__ = "copyright_name"
-__credits__ = ["Aubin ARDOIS"]
-__license__ = "license_name"
-__version__ = "x.x.x"
-__maintainer__ = "Aubin ARDOIS"
-__email__ = "aubin.ardois@gmail"
-__status__ = ["Development", "Pre-Production", "Production"]
+__author__ = "aardoi"
+__copyright__ = ""
+__credits__ = ["aardoi"]
+__license__ = ""
+__version__ = "0.0.1"
+__maintainer__ = "aardoi"
+__email__ = ""
+__status__ = ["Development"]
 
 #  **************************************
-# | CLASS / FUNCTION / SCRIPT DEFINITION |
+# | CLASS DEFINITION |
 #  **************************************
 
