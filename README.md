@@ -1,7 +1,6 @@
 ![GitHub repo size](https://img.shields.io/github/repo-size/aardoi/pyPreds?logo=GitHub&style=plastic)
-![Lines of code](https://img.shields.io/tokei/lines/github/aardoi/pyPreds)
-![GitHub last commit](https://img.shields.io/github/last-commit/aardoi/pyPreds)
-
+![Lines of code](https://img.shields.io/tokei/lines/github/aardoi/pyPreds?style=plastic)
+![GitHub last commit](https://img.shields.io/github/last-commit/aardoi/pyPreds?style=plastic)
 <p align="center">
 <img src="https://github.com/aardoi/pyPreds/blob/master/docs/pyPreds_logo.PNG" width="320">
 </p>
